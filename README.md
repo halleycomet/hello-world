@@ -1,2 +1,2 @@
 # hello-world
-store ideas collection knowledge
+store ideas collection knowledge!
