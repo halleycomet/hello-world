@@ -1,7 +1,2 @@
-# hello-world
-store ideas collection knowledge!
-
-### test
-
-* a
- * b
+### notes
+* [身体知道答案](notes/身体知道答案)
